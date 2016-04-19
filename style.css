@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    font-family: Helvetica, Verdana, sans-serif;
+    color: #8b1a1a;
+    background-color: #ffd700;
+}
+
+#box{
+
+    width: 100px;
+    height: 60px;
+    background-color: red;
+    display: none;
+    position: relative;
+    text-align: center;
+    padding-top: 35px;
+    border: solid #8b1a1a 1px;
+
+}
+
+#topTime{
+
+    background-color: #ffa500;
+    border-bottom: solid #8b1a1a 1px;
+    text-align: center;
+    padding: 15px;
+}
+
+.bold{
+    font-weight: bold;
+}
